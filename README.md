@@ -1,3 +1,3 @@
 # firstrepo
 This is my first Git repository.
-Author - Smit Yenkar
+Author - Smit Yenkar {mitwpu}
